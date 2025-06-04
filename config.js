@@ -7,7 +7,7 @@ const conf = {
   AUTO_READ_DM: process.env.AUTO_READ_DM || "off",
   AUTO_DOWNLOAD_STATUS: process.env.AUTO_DOWNLOAD_STATUS || "off",
   ADM: process.env.ANTI_DELETE || "on",
-  ON: process.env.OWNER_NAME || "FLASH-MD",
+  ON: process.env.OWNER_NAME || "FLASH-NIM",
   ANTICALL: process.env.ANTICALL || "off",
   ANTIPROMOTE: process.env.ANTIPROMOTE || "off",
   ANTIDEMOTE: process.env.ANTIDEMOTE || "off",
@@ -15,7 +15,7 @@ const conf = {
   ANTILINK_ACTION: process.env.ANTILINK_ACTION || "delete",
   timezone: process.env.TIME_ZONE || "Africa/Nairobi",
   PRESENCE_DM: process.env.DM_PRESENCE || "typing",
-  PRESENCE_GROUP: process.env.GROUP_PRESENCE || "paused",
+  PRESENCE_GROUP: process.env.GROUP_PRESENCE || "typing",
   MODE: process.env.MODE || "private",
   AV: process.env.AV || "on",
   PREFIXES: process.env.PREFIX !== undefined 
