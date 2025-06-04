@@ -1,5 +1,5 @@
 {
-  "name": "Flash-Md",
+  "name": "Flash-NIM",
   "version": "2.0.0",
   "description": "A WhatsApp bot using baileys and whiskeysockets",
   "main": "index.js",
