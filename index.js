@@ -21,5 +21,5 @@ app.get('/send-message', async (req, res) => {
 });
 
 app.listen(PORT, () => {
-    console.log(`⚡ Flash-Md V2 running on http://localhost:${PORT}`);
+    console.log(`⚡ Flash-NIM V2 running on http://localhost:${PORT}`);
 });
