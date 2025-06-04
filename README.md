@@ -1,6 +1,6 @@
-# FLASH-MD-V2: The Ultimate WhatsApp Bot
+# TERMINATOR V2: The Ultimate WhatsApp Bot
 
-**FLASH-MD-V2** is a powerful and customizable WhatsApp bot built with **Node.js** and **WhatsApp Web API**. Automate WhatsApp tasks, manage groups, and much more!
+**TERMINATOR V2** is a powerful and customizable WhatsApp bot built with **Node.js** and **WhatsApp Web API**. Automate WhatsApp tasks, manage groups, and much more!
 
 ## CONNECT TO WHATSAPP:
 - **STAR REPO AND THEN** [FORK IT](https://github.com/franceking1/Flash-Md-V2/fork) 
